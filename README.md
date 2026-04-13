@@ -1,6 +1,6 @@
 ## Beecrowd1001
 
-Desenvolvido utilizado JDK 22.0.1 e intellij 2026.1
+Desenvolvido utilizado JDK 26 e intellij 2026.1
 
 
 
