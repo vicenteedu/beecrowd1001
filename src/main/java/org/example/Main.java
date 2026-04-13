@@ -13,7 +13,7 @@ public class Main {
 
         X = A + B;
 
-        System.out.println("SOMA = " + X);
+        System.out.println("X = " + X);
 
 
 
